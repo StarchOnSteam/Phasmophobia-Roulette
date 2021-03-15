@@ -8,3 +8,8 @@ If you want to add strats, you can either download the code and add them there, 
 I wont nessisarily add every idea submitted to me, and I have other work so forgive me if I dont reply to you on the same day.
 
 Have fun :)
+
+
+
+
+Phasmophobia and the Phasmophobia logo are the property of Kinetic Games, they are not my property.
