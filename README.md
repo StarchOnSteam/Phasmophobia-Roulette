@@ -1,6 +1,6 @@
 A basic WPF app which rolls strategies for Phasmophobia.
 
-You can either download the release version: https://github.com/StarchOnSteam/Phasmophobia-Roulette/releases/tag/V1.0.0
+You can either download the release version: https://github.com/StarchOnSteam/Phasmophobia-Roulette/releases
 OR build the app yourself from the source code.
 
 If you want to add strats, use the ExtraStrats.txt file, using the example within the file. If this file is in the same directory as the executable, the strats
