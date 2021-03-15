@@ -1,4 +1,4 @@
-A basic WPF app which rolls strategies for Phasmophobia.
+A basic WPF app which serves as a strat roulette for Phasmophobia.
 
 You can either download the release version: https://github.com/StarchOnSteam/Phasmophobia-Roulette/releases
 OR build the app yourself from the source code.
