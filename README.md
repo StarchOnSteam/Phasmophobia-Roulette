@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/46310750/111114359-1941c600-859e-11eb-9496-7dfba8af9367.PNG)
 A basic WPF app which serves as a strat roulette for Phasmophobia.
 
 You can either download the release version: https://github.com/StarchOnSteam/Phasmophobia-Roulette/releases
