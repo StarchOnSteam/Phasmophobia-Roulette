@@ -49,7 +49,7 @@ namespace Strat_Roulette
             "LIGHTS OUT\n\nYou may only use candles and lighters.\nNo house lights or torches.\nOne UV torch is permitted.",
             "ANTI VAX\n\nNo sanity pills allowed.\nCannot leave until 3 pieces of evidence are confirmed.\nThe power cannot be turned on, it causes autism",
             "APARTMENT BLOCK\n\nYou all live in a complex and have your own rooms.\nYou may bring whatever you want but it is not to be shared, you aren't frindly neighbors.\nWithout the use of a thermometer everyone picks their own rooms to investigate and is not allowed to stray from them.\nBest on small maps.",
-            "THE TALLOCAUST\n\nYou are all short detectives, you must always be crouched.\nNo exceptions, even during hunts.",
+            "A TALL ORDER\n\nYou are all short detectives, you must always be crouched.\nNo exceptions, even during hunts.",
             "CAMERA MEN\n\nThe shop was all out of video cameras, you could only buy GoPros.\nIf you wish to get proof of ghost orbs you must use a player as a cameraman\nOnce positioned, the cameraman is not allowed to move no matter what phase the ghost is in.\nThe cameraman is released from duty only by their peers.",
             "WOMEN'S JEANS\n\nYou can only carry one item.\nThis means you may not have space for a torch.",
             "BUDGET CUTS\n\nYour ghost hunt show has hit a rough patch, your producer has run out of money.\nYou can each only bring one item and there are to be no repeated items.\nUnion healthcare permits one container of sanity pills each.",

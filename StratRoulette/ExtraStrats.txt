@@ -1,1 +1,1 @@
-EXAMPLE STRAT\r\n\r\nThis is the first line of your additional strat.\r\nThis is your second line.\r\nKeep your strats on one line only.
+EXAMPLE STRAT||This is the first line of your additional strat.|This is your second line.|Keep your strats on one line only.
