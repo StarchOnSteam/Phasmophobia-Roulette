@@ -1,5 +1,5 @@
 ﻿/*
-Copyright (c) 2021 Riley Mullett
+Copyright (c) 2021 StarchOnSteam
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
